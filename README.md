@@ -10,25 +10,7 @@ Projects:
 
 Emulation_ABMs - All code for my MSC Maths Thesis in large-scale ABM calibration
 
-ED_Conversion - CST customer conversion program analysis at ERIKS Digital 
-
-ED_Migration - Zamro migration program analysis at ERIKS Digital 
-
-ED_Organisations - Organisation name extraction at ERIKS Digital 
-
-ED_Webshop - Webshop year-on-year analysis at ERIKS Digital 
-
-ED_Customers - Customer string extraction at ERIKS Digital 
-
-ED_Search - Search engine corpora analysis at ERIKS Digital 
-
-ED_Intermittent_Demand - Intermittent demand research project at ERIKS Digital 
-
-ED_Safety_Stocks - Automated safety stocks calculation at ERIKS NL
-
-CCDL_Assignment_1 - Deep Learning assignment 
-
-CCDL_Assignment_2 - Deep Learning assignment 
+ED_Conversion - All projects at ERIKS Digital/ERIKS NL
 
 INET - Work with Oxford INET, involving sourcing and visualising technological progress, and patent data analysis 
 
