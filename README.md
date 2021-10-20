@@ -8,6 +8,8 @@ If any of them are of interest, and not yet uploaded, please email me at shaheen
 
 Projects:
 
+Emulation_ABMs - All code for my MSC Maths Thesis in large-scale ABM calibration
+
 ED_Conversion - CST customer conversion program analysis at ERIKS Digital 
 
 ED_Migration - Zamro migration program analysis at ERIKS Digital 
@@ -28,12 +30,9 @@ CCDL_Assignment_1 - Deep Learning assignment
 
 CCDL_Assignment_2 - Deep Learning assignment 
 
-INET_Patents - Work with Oxford INET, involving patent data analysis 
-
-INET_Data_Viz - Work with Oxford INET, involving sourcing and visualising technological progress data
+INET - Work with Oxford INET, involving sourcing and visualising technological progress, and patent data analysis 
 
 FIFA card price prediction project - Still in planning 
 
 Fantasy Premier League data analysis project - Still in planning 
 
-ABM_Calibration - All code for my MSC Maths Thesis in large-scale ABM calibration
