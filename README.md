@@ -14,7 +14,7 @@ ED_Conversion - All projects at ERIKS Digital/ERIKS NL
 
 INET - Work with Oxford INET, involving sourcing and visualising technological progress, and patent data analysis 
 
-ALEBO_BOTorch - A re-implementation of a high-dimensional Bayesian Optimisation algorithm in BOTorch. 
+ALEBO_BOTorch - A re-implementation of a high-dimensional Bayesian Optimisation algorithm in BOTorch
 
 FIFA card price prediction project - Still in planning 
 
