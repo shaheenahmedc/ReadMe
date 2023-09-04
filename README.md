@@ -16,7 +16,3 @@ INET - Work with Oxford INET, involving sourcing and visualising technological p
 
 ALEBO_BOTorch - A re-implementation of a high-dimensional Bayesian Optimisation algorithm in BOTorch
 
-FIFA card price prediction project - Still in planning 
-
-Fantasy Premier League data analysis project - Still in planning 
-
